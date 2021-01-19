@@ -40,3 +40,7 @@ I mostly build websites using front-end technology stacks such as React, Vue.js 
 [![Dandy Ling's github stats](https://github-readme-stats.vercel.app/api?username=dandyling&hide=stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dandyling&theme=tokyonight&langs_count=4&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact me
+
+You can contact me using twitter.com/dandyling1
