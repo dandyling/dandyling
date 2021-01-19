@@ -17,23 +17,23 @@ Here are some ideas to get you started:
 <div>
   <img style="margin-right:16px" src="https://res.cloudinary.com/dpyg8gfqr/image/upload/w_150,h_150/github/profile-pic.jpg" alt="Me trying the Super Mario jump" align="left" />
   
-  <p>I am Dandy Ling.  I am a Javascript developer and I loves to code. The picture on the left represents me trying the Super Mario jump 😝</p>
+  <p>I am Dandy Ling.  I am a Javascript developer and I loves to code. The picture on the left represents me trying the Super Mario jump 😝.</p>
 </div>
 
 ## Anime to Front-end Developer
 
-As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG games. A journey to Japan about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
+As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG 🎮 games. A journey to Japan 🗾 about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
 
 ## Open Source Contribution
 
-I am a believer in open-source in the future of software development. Open-source are the public infrastructures that served the community. I am currently trying to work on
+I am a believer in open-source as the future of software development. Open-source are the public infrastructures that serves the community 🌍. Thus, I am currently trying to work on:
 
 1. 🏪 an open source e-commerce store to help small businesses
 2. 🎨 a design system for creating design tokens for developers
 
 ## Front-end and Startups
 
-I mostly build websites using front-end technology stacks such as React, Vue.js etc. I joined a couple of startups, so I am fluent with LEAN startup methodologies. I enjoyed building rapid prototypes and MVP and getting feedbacks from users to learn about how I can serve their needs. I built a project for an NGO too.
+I mostly build websites using front-end technology stacks such as React, Vue.js etc. I joined a couple of startups, so I am fluent with LEAN startup methodologies. I enjoyed building rapid prototypes and MVP 🛠️ and getting feedbacks from users to learn about how I can serve their needs. I built a project for an NGO too.
 
 ## GitHub Stats
 
@@ -43,4 +43,4 @@ I mostly build websites using front-end technology stacks such as React, Vue.js 
 
 ## Contact me
 
-You can contact me using twitter.com/dandyling1
+You can contact me using [dandyling1](https://twitter.com/dandyling1)
