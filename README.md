@@ -20,11 +20,14 @@ Here are some ideas to get you started:
     <img src="https://res.cloudinary.com/dpyg8gfqr/image/upload/v1611069776/github/profile-pic.jpg" alt="Me trying the Super Mario jump">
     <p style="text-align: center">Mario jump</p>
   </div>
+  
   <div>
     <h2>Welcome to my GitHub profile</h2>
     <p>I am Dandy Ling.  I am a Javascript developer and I loves to code. The picture on the left represents me trying the Super Mario jump 😝</p>
   </div>
 </div>
+
+![](https://res.cloudinary.com/dpyg8gfqr/image/upload/v1611069776/github/profile-pic.jpg =150x150)
 
 ## Anime to Front-end Developer
 
