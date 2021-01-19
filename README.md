@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="display:flex">
-  <div style="display:flex; flex-direction:column; align-items:center; margin-right: 16px; width:150px; height: 150px">
+  <div style="display:flex; flex-direction:column; align-items:center; margin-right: 16px; width:150px; height: 150px" width="150" height="150">
     <img src="https://res.cloudinary.com/dpyg8gfqr/image/upload/v1611069776/github/profile-pic.jpg" alt="Me trying the Super Mario jump">
     <p style="text-align: center">Mario jump</p>
   </div>
@@ -39,7 +39,7 @@ I am a believer in open-source in the future of software development. Open-sourc
 
 ## Front-end and Startups
 
-I mostly build websites using front-end technologie stacks such as React, Vue.js etc. I joined a couple of startups, so I am fluent with LEAN startup methodologies. I enjoyed building rapid prototypes and MVP and getting feedbacks from users to learn about how I can serve their needs. I built a project for an NGO too.
+I mostly build websites using front-end technology stacks such as React, Vue.js etc. I joined a couple of startups, so I am fluent with LEAN startup methodologies. I enjoyed building rapid prototypes and MVP and getting feedbacks from users to learn about how I can serve their needs. I built a project for an NGO too.
 
 ## GitHub Stats
 
