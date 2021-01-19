@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <div>
   <img style="margin-right:16px" src="https://res.cloudinary.com/dpyg8gfqr/image/upload/w_150,h_150/github/profile-pic.jpg" alt="Me trying the Super Mario jump" align="left" />
   
-  <p>I am Dandy Ling.  I am a Javascript developer and I loves to code. The picture on the left represents me trying the Super Mario jump 😝.</p>
+  <p>I am Dandy Ling.  I am a Javascript developer and I loves to code.  The picture on the left represents me trying the Super Mario jump 😝.</p>
 </div>
 
 ## Anime to Front-end Developer
 
-As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG 🎮 games. A journey to Japan 🗾 about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
+As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG 🎮 games. A journey to Japan about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
 
 ## Open Source Contribution
 
