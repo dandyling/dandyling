@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div style="display:flex">
   <div style="display:flex; flex-direction:column; align-items:center; margin-right: 16px; width:150px; height: 150px" width="150" height="150">
-    <img src="https://res.cloudinary.com/dpyg8gfqr/image/upload/v1611069776/github/profile-pic.jpg" alt="Me trying the Super Mario jump">
+    <img src="https://res.cloudinary.com/dpyg8gfqr/image/upload/w_150,h_150/github/profile-pic.jpg" alt="Me trying the Super Mario jump">
     <p style="text-align: center">Mario jump</p>
   </div>
   
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
     <p>I am Dandy Ling.  I am a Javascript developer and I loves to code. The picture on the left represents me trying the Super Mario jump 😝</p>
   </div>
 </div>
-
-![](https://res.cloudinary.com/dpyg8gfqr/image/upload/v1611069776/github/profile-pic.jpg =150x150)
-
 ## Anime to Front-end Developer
 
 As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG games. A journey to Japan about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
