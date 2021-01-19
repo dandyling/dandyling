@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Anime to Front-end Developer
 
-As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG 🎮 games. A journey to Japan about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
+As an adolescent, I loves anime. Afterwards, it brought me to interest such as playing RPG 🎮 games. A journey to Japan 🗾 about learning game development brought me in contact with web-technologies such as HTML5 and the canvas API. Today, I am doing front-end development for the web and mobile.
 
 ## Open Source Contribution
 
